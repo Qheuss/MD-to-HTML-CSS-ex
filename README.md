@@ -4,7 +4,7 @@
 
 _Je suis la formation Digital Sprint chez BeCode Liège_
 
-- 🗺️ J'habite a Battice
+- 🗺️ J'habite à *******
 - 🤓 Je suis en train d'apprendre le Markdown
 
 ## Mes animaux de compagnie
